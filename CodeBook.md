@@ -17,7 +17,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 
 
                       |
-----------------------|-----------------------------
+--------------------- | ----------------------------
 Variable description  | Assigned ID of test subject
 Variable name         | subjectID
 Variable type         | Integer
@@ -25,7 +25,7 @@ Allowable values      | 1-30
 Comments              |
 
                       |
-----------------------|-------------------------------------------------------
+--------------------- | ------------------------------------------------------
 Variable description  | Activity perfomed while remaining data were recorded
 Variable name         | activity
 Variable type         | Character string
@@ -40,7 +40,7 @@ Comments              |
 
 
                       |
-----------------------|--------------------------------------
+--------------------- | -------------------------------------
 Variable description  | Mean body acceleration x component 
 Variable name         | bodyAccelerometerSignalMeanX
 Variable type         | Real
@@ -50,7 +50,7 @@ Comments              |
 
 
                       |
-----------------------|-------------------------------------
+--------------------- | ------------------------------------
 Variable description  | Mean body acceleration y component
 Variable name         | bodyAccelerometerSignalMeanY
 Variable type         | Real
@@ -60,7 +60,7 @@ Comments              |
 
 
                       |
-----------------------|--------------------------------------
+--------------------- | -------------------------------------
 Variable description  | Mean body acceleration z component
 Variable name         | bodyAccelerometerSignalMeanZ
 Variable type         | Real
@@ -70,7 +70,7 @@ Comments              |
 
 
                       |
-----------------------|------------------------------------------------------
+--------------------- | -----------------------------------------------------
 Variable description  | Standard deviation of body acceleration x component
 Variable name         | bodyAccelerometerSignalStandardDeviationX
 Variable type         | Real
@@ -80,7 +80,7 @@ Comments              |
 
 
                       |
-----------------------|------------------------------------------------------
+--------------------- | -----------------------------------------------------
 Variable description  | Standard deviation of body acceleration y component
 Variable name         | bodyAccelerometerSignalStandardDeviationY
 Variable type         | Real
@@ -90,7 +90,7 @@ Comments              |
 
 
                       |
-----------------------|-------------------------------------------------------
+--------------------- | ------------------------------------------------------
 Variable description  | Standard deviation of body acceleration z component
 Variable name         | bodyAccelerometerSignalStandardDeviationZ
 Variable type         | Real
@@ -100,7 +100,7 @@ Comments              |
 
 
                       |
-----------------------|-----------------------------------------
+--------------------- | ----------------------------------------
 Variable description  | Mean gravity acceleration x component
 Variable name         | gravityAccelerometerSignalMeanX
 Variable type         | Real
@@ -110,7 +110,7 @@ Comments              |
 
 
                       |
-----------------------|-----------------------------------------
+--------------------- | ----------------------------------------
 Variable description  | Mean gravity acceleration y component
 Variable name         | gravityAccelerometerSignalMeanY
 Variable type         | Real
@@ -120,7 +120,7 @@ Comments              |
 
 
                       |
-----------------------|-----------------------------------------
+--------------------- | ----------------------------------------
 Variable description  | Mean gravity acceleration z component
 Variable name         | gravityAccelerometerSignalMeanZ
 Variable type         | Real
@@ -130,7 +130,7 @@ Comments              |
 
 
                       |
-----------------------|---------------------------------------------------------
+--------------------- | --------------------------------------------------------
 Variable description  | Standard deviation of gravity acceleration x component
 Variable name         | gravityAccelerometerSignalStandardDeviationX
 Variable type         | Real
@@ -140,7 +140,7 @@ Comments              |
 
 
                       |
-----------------------|---------------------------------------------------------
+--------------------- | --------------------------------------------------------
 Variable description  | Standard deviation of gravity acceleration y component
 Variable name         | gravityAccelerometerSignalStandardDeviationY
 Variable type         | Real
@@ -150,7 +150,7 @@ Comments              |
 
 
                       |
-----------------------|----------------------------------------------------------
+--------------------- | ---------------------------------------------------------
 Variable description  | Standard deviation of gravity acceleration z component
 Variable name         | gravityAccelerometerSignalStandardDeviationZ
 Variable type         | Real
@@ -160,7 +160,7 @@ Comments              |
 
 
                       |
-----------------------|--------------------------------------------------------
+--------------------- | -------------------------------------------------------
 Variable description  | Time derivative of mean body acceleration x component
 Variable name         | bodyAccelerometerSignalJerkMeanX
 Variable type         | Real
@@ -170,7 +170,7 @@ Comments              |
 
 
                       |
-----------------------|----------------------------------------------------------
+--------------------- | ---------------------------------------------------------
 Variable description  | Time derivative of mean body acceleration y component
 Variable name         | bodyAccelerometerSignalJerkMeanY
 Variable type         | Real
@@ -180,7 +180,7 @@ Comments              |
 
 
                       |
-----------------------|---------------------------------------------------------
+--------------------- | --------------------------------------------------------
 Variable description  | Time derivative of mean body acceleration z component
 Variable name         | bodyAccelerometerSignalJerkMeanZ
 Variable type         | Real
@@ -190,7 +190,7 @@ Comments              |
 
 
                       |
-----------------------|------------------------------------------------------------------------
+--------------------- | -----------------------------------------------------------------------
 Variable description  | Time derivative of standard deviation of body acceleration x component
 Variable name         | bodyAccelerometerSignalJerkStandardDeviationX
 Variable type         | Real
@@ -200,7 +200,7 @@ Comments              |
 
 
                       |
-----------------------|-----------------------
+--------------------- | ----------------------
 Variable description  | Time derivative of standard deviation of body acceleration y component
 Variable name         | bodyAccelerometerSignalJerkStandardDeviationY
 Variable type         | Real
@@ -210,7 +210,7 @@ Comments              |
 
 
                       |
-----------------------|-------------------------------------------------------------------------
+--------------------- | ------------------------------------------------------------------------
 Variable description  | Time derivative of standard deviation of body acceleration z component
 Variable name         | bodyAccelerometerSignalJerkStandardDeviationZ
 Variable type         | Real
@@ -220,7 +220,7 @@ Comments              |
 
 
                       |
-----------------------|------------------------------------------
+--------------------- | -----------------------------------------
 Variable description  | Mean gyroscope measurement x component
 Variable name         | bodyGyroscopeSignalMeanX
 Variable type         | Real
@@ -230,7 +230,7 @@ Comments              |
 
 
                       |
-----------------------|------------------------------------------
+--------------------- | -----------------------------------------
 Variable description  | Mean gyroscope measurement y component
 Variable name         | bodyGyroscopeSignalMeanY
 Variable type         | Real
@@ -240,7 +240,7 @@ Comments              |
 
 
                       |
-----------------------|-----------------------------------------
+--------------------- | ----------------------------------------
 Variable description  | Mean gyroscope measurement z component
 Variable name         | bodyGyroscopeSignalMeanZ
 Variable type         | Real
@@ -250,7 +250,7 @@ Comments              |
 
 
                       |
-----------------------|--------------------------------------------------------------
+--------------------- | -------------------------------------------------------------
 Variable description  | Standard deviation of the gyroscope measurement x component
 Variable name         | bodyGyroscopeSignalStandardDeviationX
 Variable type         | Real
@@ -260,7 +260,7 @@ Comments              |
 
 
                       |
-----------------------|--------------------------------------------------------------
+--------------------- | -------------------------------------------------------------
 Variable description  | Standard deviation of the gyroscope measurement y component
 Variable name         | bodyGyroscopeSignalStandardDeviationY
 Variable type         | Real
@@ -270,7 +270,7 @@ Comments              |
 
 
                       |
-----------------------|---------------------------------------------------------------
+--------------------- | --------------------------------------------------------------
 Variable description  | Standard deviation of the gyroscope measurement z component
 Variable name         | bodyGyroscopeSignalStandardDeviationZ
 Variable type         | Real
@@ -280,7 +280,7 @@ Comments              |
 
 
                       |
-----------------------|----------------------------------------------------------------
+--------------------- | ---------------------------------------------------------------
 Variable description  | Time derivative of the mean gyroscope measurement x component
 Variable name         | bodyGyroscopeSignalJerkMeanX
 Variable type         | Real
@@ -290,7 +290,7 @@ Comments              |
 
 
                       |
-----------------------|----------------------------------------------------------------
+--------------------- | ---------------------------------------------------------------
 Variable description  | Time derivative of the mean gyroscope measurement y component
 Variable name         | bodyGyroscopeSignalJerkMeanY
 Variable type         | Real
@@ -300,7 +300,7 @@ Comments              |
 
 
                       |
-----------------------|-----------------------------------------------------------------
+--------------------- | ----------------------------------------------------------------
 Variable description  | Time derivative of the mean gyroscope measurement z component
 Variable name         | bodyGyroscopeSignalJerkMeanZ
 Variable type         | Real
@@ -310,7 +310,7 @@ Comments              |
 
 
                       |
-----------------------|----------------------------------------------------------------------------------------
+--------------------- | ---------------------------------------------------------------------------------------
 Variable description  | Time derivative of the standard deviation of the gyroscope measurement x component
 Variable name         | bodyGyroscopeSignalJerkStandardDeviationX
 Variable type         | Real
@@ -320,7 +320,7 @@ Comments              |
 
 
                       |
-----------------------|--------------------------------------------------------------------------------------
+--------------------- | -------------------------------------------------------------------------------------
 Variable description  | Time derivative of the standard deviation of the gyroscope measurement y component
 Variable name         | bodyGyroscopeSignalJerkStandardDeviationY
 Variable type         | Real
@@ -330,7 +330,7 @@ Comments              |
 
 
                       |
-----------------------|----------------------------------------------------------------------------------------
+--------------------- | ---------------------------------------------------------------------------------------
 Variable description  | Time derivative of the standard deviation of the gyroscope measurement z component
 Variable name         | bodyGyroscopeSignalJerkStandardDeviationZ
 Variable type         | Real
@@ -340,7 +340,7 @@ Comments              |
 
 
                       |
-----------------------|-----------------------------------------------------------------------------------------
+--------------------- | ----------------------------------------------------------------------------------------
 Variable description  | Mean magnitude (Euclidean norm) of body acceleration
 Variable name         | bodyAccelerometerSignalMagnitudeMean
 Variable type         | Real
@@ -350,7 +350,7 @@ Comments              |
 
 
                       |
-----------------------|-----------------------------------------------------------------------------------------
+--------------------- | ----------------------------------------------------------------------------------------
 Variable description  | Standard deviation of the magnitude (Euclidean norm) of body acceleration
 Variable name         | bodyAccelerometerSignalMagnitudeStandardDeviation
 Variable type         | Real
@@ -360,7 +360,7 @@ Comments              |
 
 
                       |
-----------------------|-----------------------------------------------------------------------------------------
+--------------------- | ----------------------------------------------------------------------------------------
 Variable description  | Mean of the magnitude (Euclidean norm) of gravity acceleration
 Variable name         | gravityAccelerometerSignalMagnitudeMean
 Variable type         | Real
@@ -370,7 +370,7 @@ Comments              |
 
 
                       |
-----------------------|-----------------------------------------------------------------------------------------
+--------------------- | ----------------------------------------------------------------------------------------
 Variable description  | Standard deviation of the magnitude (Euclidean norm) of the gravity acceleration
 Variable name         | gravityAccelerometerSignalMagnitudeStandardDeviation
 Variable type         | Real
@@ -380,7 +380,7 @@ Comments              |
 
 
                       |
-----------------------|-----------------------------------------------------------------------------------------
+--------------------- | ----------------------------------------------------------------------------------------
 Variable description  | Mean time derivate of body acceleration magnitude (Euclidean norm)
 Variable name         | bodyAccelerometerSignalJerkMagnitudeMean
 Variable type         | Real
@@ -390,7 +390,7 @@ Comments              |
 
 
                       |
-----------------------|-----------------------------------------------------------------------------------------
+--------------------- | ----------------------------------------------------------------------------------------
 Variable description  | Standard deviation time derivative of body accelaration magnitude (Euclidean norm)
 Variable name         | bodyAccelerometerSignalJerkMagnitudeStandardDeviation
 Variable type         | Real
@@ -400,7 +400,7 @@ Comments              |
 
 
                       |
-----------------------|-----------------------------------------------------------------------------------------
+--------------------- | ----------------------------------------------------------------------------------------
 Variable description  | Mean magnitude (Euclidean norm) of gyroscope signal
 Variable name         | bodyGyroscopeSignalMagnitudeMean
 Variable type         | Real
@@ -410,7 +410,7 @@ Comments              |
 
 
                       |
-----------------------|-----------------------------------------------------------------------------------------
+--------------------- | ----------------------------------------------------------------------------------------
 Variable description  | Standard deviation of magnitude (Euclidean norm) of gyroscope signal
 Variable name         | bodyGyroscopeSignalMagnitudeStandardDeviation
 Variable type         | Real
@@ -420,7 +420,7 @@ Comments              |
 
 
                       |
-----------------------|-----------------------------------------------------------------------------------------
+--------------------- | ----------------------------------------------------------------------------------------
 Variable description  | Mean magnitude (Euclidean norm) of time derivative of the gyroscope signal
 Variable name         | bodyGyroscopeSignalJerkMagnitudeMean
 Variable type         | Real
@@ -430,7 +430,7 @@ Comments              |
 
 
                       |
-----------------------|-------------------------------------------------------------------------------------------------------
+--------------------- | ------------------------------------------------------------------------------------------------------
 Variable description  | Standard deviation of the magnitude (Euclidean norm) of the time derivative of the gyroscope signal
 Variable name         | bodyGyroscopeSignalJerkMagnitudeStandardDeviation
 Variable type         | Real
@@ -440,7 +440,7 @@ Comments              |
 
 
                       |
-----------------------|-----------------------------------------------------------------------------------------
+--------------------- | ----------------------------------------------------------------------------------------
 Variable description  | Mean Fast Fourier Transform (FFT) of body accelerometer measurement x component
 Variable name         | bodyAccelerometerFFTMeanX
 Variable type         | Real
@@ -450,7 +450,7 @@ Comments              |
 
 
                       |
-----------------------|-----------------------------------------------------------------------------------------
+--------------------- | ----------------------------------------------------------------------------------------
 Variable description  | Mean Fast Fourier Transform (FFT) of body accelerometer measurement y component
 Variable name         | bodyAccelerometerFFTMeanY
 Variable type         | Real
@@ -460,7 +460,7 @@ Comments              |
 
 
                       |
-----------------------|-----------------------------------------------------------------------------------------
+--------------------- | ----------------------------------------------------------------------------------------
 Variable description  | Mean Fast Fourier Transform (FFT) of body accelerometer measurement z component
 Variable name         | bodyAccelerometerFFTMeanZ
 Variable type         | Real
@@ -470,7 +470,7 @@ Comments              |
 
 
                       |
-----------------------|-----------------------------------------------------------------------------------------
+--------------------- | ----------------------------------------------------------------------------------------
 Variable description  | Standard deviation of the Fast Fourier Transform (FFT) of the body accelerometer measurement x component
 Variable name         | bodyAccelerometerFFTStandardDeviationX
 Variable type         | Real
@@ -480,7 +480,7 @@ Comments              |
 
 
                       |
-----------------------|-----------------------
+--------------------- | ----------------------
 Variable description  | Standard deviation of the Fast Fourier Transform (FFT) of the body accelerometer measurement y component
 Variable name         | bodyAccelerometerFFTStandardDeviationY
 Variable type         | Real
@@ -490,7 +490,7 @@ Comments              |
 
 
                       |
-----------------------|---------------------------------------------------------------------------------------------------------------
+--------------------- | --------------------------------------------------------------------------------------------------------------
 Variable description  | Standard deviation of the Fast Fourier Transform (FFT) of the body accelerometer measurement z component
 Variable name         | bodyAccelerometerFFTStandardDeviationZ
 Variable type         | Real
@@ -500,7 +500,7 @@ Comments              |
 
 
                       |
-----------------------|-----------------------------------------------------------------------------------------------------------------------
+--------------------- | ----------------------------------------------------------------------------------------------------------------------
 Variable description  | Mean of the Fast Fourier Transform (FFT) of the time derivative of the body accelerometer measurement x component
 Variable name         | bodyAccelerometerFFTJerkMeanX
 Variable type         | Real
@@ -510,7 +510,7 @@ Comments              |
 
 
                       |
-----------------------|-----------------------------------------------------------------------------------------------------------------------
+--------------------- | ----------------------------------------------------------------------------------------------------------------------
 Variable description  | Mean of the Fast Fourier Transform (FFT) of the time derivative of the body accelerometer measurement y component
 Variable name         | bodyAccelerometerFFTJerkMeanY
 Variable type         | Real
@@ -520,7 +520,7 @@ Comments              |
 
 
                       |
-----------------------|-----------------------------------------------------------------------------------------------------------------------
+--------------------- | ----------------------------------------------------------------------------------------------------------------------
 Variable description  | Mean of the Fast Fourier Transform (FFT) of the time derivative of the body accelerometer measurement z component
 Variable name         | bodyAccelerometerFFTJerkMeanZ
 Variable type         | Real
@@ -530,7 +530,7 @@ Comments              |
 
 
                       |
-----------------------|------------------------------------------------------------------------------------------------------------------------------------
+--------------------- | -----------------------------------------------------------------------------------------------------------------------------------
 Variable description  | Standard deviation of the Fast Fourier Transform (FFT) of the time derivative of the body accelerometer measurement x component
 Variable name         | bodyAccelerometerFFTJerkStandardDeviationX
 Variable type         | Real
@@ -540,7 +540,7 @@ Comments              |
 
 
                       |
-----------------------|-------------------------------------------------------------------------------------------------------------------------------------
+--------------------- | ------------------------------------------------------------------------------------------------------------------------------------
 Variable description  | Standard deviation of the Fast Fourier Transform (FFT) of the time derivative of the body accelerometer measurement y component
 Variable name         | bodyAccelerometerFFTJerkStandardDeviationY
 Variable type         | Real
@@ -550,7 +550,7 @@ Comments              |
 
 
                       |
-----------------------|------------------------------------------------------------------------------------------------------------------------------------
+--------------------- | -----------------------------------------------------------------------------------------------------------------------------------
 Variable description  | Standard deviation of the Fast Fourier Transform (FFT) of the time derivative of the body accelerometer measurement z component
 Variable name         | bodyAccelerometerFFTJerkStandardDeviationZ
 Variable type         | Real
@@ -560,7 +560,7 @@ Comments              |
 
 
                       |
-----------------------|-----------------------------------------------------------------------------------------------------------------------
+--------------------- | ----------------------------------------------------------------------------------------------------------------------
 Variable description  | Mean of the Fast Fourier Transform (FFT) of the time derivative of the gyroscope measurement x component
 Variable name         | bodyGyroscopeFFTMeanX
 Variable type         | Real
@@ -570,7 +570,7 @@ Comments              |
 
 
                       |
-----------------------|-----------------------------------------------------------------------------------------------------------------------
+--------------------- | ----------------------------------------------------------------------------------------------------------------------
 Variable description  | Mean of the Fast Fourier Transform (FFT) of the time derivative of the gyroscope measurement y component
 Variable name         | bodyGyroscopeFFTMeanY
 Variable type         | Real
@@ -580,7 +580,7 @@ Comments              |
 
 
                       |
-----------------------|-----------------------------------------------------------------------------------------------------------------------
+--------------------- | ----------------------------------------------------------------------------------------------------------------------
 Variable description  | Mean of the Fast Fourier Transform (FFT) of the time derivative of the gyroscope measurement z component
 Variable name         | bodyGyroscopeFFTMeanZ
 Variable type         | Real
@@ -590,7 +590,7 @@ Comments              |
 
 
                       |
-----------------------|-------------------------------------------------------------------------------------------------------------------------
+--------------------- | ------------------------------------------------------------------------------------------------------------------------
 Variable description  | Standard deviation of the Fast Fourier Transform (FFT) of the time derivative of the gyroscope measurement x component
 Variable name         | bodyGyroscopeFFTStandardDeviationX
 Variable type         | Real
@@ -600,7 +600,7 @@ Comments              |
 
 
                       |
-----------------------|-------------------------------------------------------------------------------------------------------------------------
+--------------------- | ------------------------------------------------------------------------------------------------------------------------
 Variable description  | Standard deviation of the Fast Fourier Transform (FFT) of the time derivative of the gyroscope measurement y component
 Variable name         | bodyGyroscopeFFTStandardDeviationY
 Variable type         | Real
@@ -610,7 +610,7 @@ Comments              |
 
 
                       |
-----------------------|-------------------------------------------------------------------------------------------------------------------------
+--------------------- | ------------------------------------------------------------------------------------------------------------------------
 Variable description  | Standard deviation of the Fast Fourier Transform (FFT) of the time derivative of the gyroscope measurement z component
 Variable name         | bodyGyroscopeFFTStandardDeviationZ
 Variable type         | Real
@@ -620,7 +620,7 @@ Comments              |
 
 
                       |
-----------------------|-----------------------------------------------------------------------------------------------------------------------
+--------------------- | ----------------------------------------------------------------------------------------------------------------------
 Variable description  | Mean of the Fast Fourier Transform of the magnitude of the body acceleration
 Variable name         | bodyAccelerometerFFTMagnitudeMean
 Variable type         | Real
@@ -630,7 +630,7 @@ Comments              |
 
 
                       |
-----------------------|-----------------------------------------------------------------------------------------------------------------------
+--------------------- | ----------------------------------------------------------------------------------------------------------------------
 Variable description  | Standard deviation of the Fast Fourier Transform of the magnitude of the body acceleration
 Variable name         | bodyAccelerometerFFTMagnitudeStandardDeviation
 Variable type         | Real
@@ -640,7 +640,7 @@ Comments              |
 
 
                       |
-----------------------|-----------------------------------------------------------------------------------------------------------------------
+--------------------- | ----------------------------------------------------------------------------------------------------------------------
 Variable description  | Mean of the Fast Fourier Transform of the magnitude of the time derivative of the body acceleration
 Variable name         | bodyAccelerometerFFTJerkMagnitudeMean
 Variable type         | Real
@@ -650,7 +650,7 @@ Comments              |
 
 
                       |
-----------------------|-----------------------------------------------------------------------------------------------------------------------
+--------------------- | ----------------------------------------------------------------------------------------------------------------------
 Variable description  | Standard deviation of the Fast Fourier Transform of the magnitude of the time derivative of the body acceleration
 Variable name         | bodyAccelerometerFFTJerkMagnitudeStandardDeviation
 Variable type         | Real
@@ -660,7 +660,7 @@ Comments              |
 
 
                       |
-----------------------|-----------------------------------------------------------------------------------------------------------------------
+--------------------- | ----------------------------------------------------------------------------------------------------------------------
 Variable description  | Mean of the Fast Fourier Transform of the magnitude of the gyroscope measurement
 Variable name         | bodyGyroscopeFFTMagnitudeMean
 Variable type         | Real
@@ -670,7 +670,7 @@ Comments              |
 
 
                       |
-----------------------|-----------------------------------------------------------------------------------------------------------------------
+--------------------- | ----------------------------------------------------------------------------------------------------------------------
 Variable description  | Standard deviation of the Fast Fourier Transform of the magnitude of the gyroscope measurement
 Variable name         | bodyGyroscopeFFTMagnitudeStandardDeviation
 Variable type         | Real
@@ -680,7 +680,7 @@ Comments              |
 
 
                       |
-----------------------|-----------------------------------------------------------------------------------------------------------------------
+--------------------- | ----------------------------------------------------------------------------------------------------------------------
 Variable description  | Mean of the Fast Fourier Transform of the time derivative of magnitude of the gyroscope measurement
 Variable name         | bodyGyroscopeFFTJerkMagnitudeMean
 Variable type         | Real
@@ -690,7 +690,7 @@ Comments              |
 
 
                       |
-----------------------|-----------------------------------------------------------------------------------------------------------------------
+--------------------- | ----------------------------------------------------------------------------------------------------------------------
 Variable description  | Standard deviation of the Fast Fourier Transform of the time derivative of magnitude of the gyroscope measurement
 Variable name         | bodyGyroscopeFFTJerkMagnitudeStandardDeviation
 Variable type         | Real
