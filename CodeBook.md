@@ -43,7 +43,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyAccelerometerSignalMeanX
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -51,7 +51,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyAccelerometerSignalMeanY
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -59,7 +59,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyAccelerometerSignalMeanZ
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -67,7 +67,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyAccelerometerSignalStandardDeviationX
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -75,7 +75,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyAccelerometerSignalStandardDeviationY
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -83,7 +83,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyAccelerometerSignalStandardDeviationZ
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -91,7 +91,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: gravityAccelerometerSignalMeanX
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -99,7 +99,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: gravityAccelerometerSignalMeanY
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -107,7 +107,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: gravityAccelerometerSignalMeanZ
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -115,7 +115,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: gravityAccelerometerSignalStandardDeviationX
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -123,7 +123,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: gravityAccelerometerSignalStandardDeviationY
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -131,7 +131,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: gravityAccelerometerSignalStandardDeviationZ
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -139,7 +139,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyAccelerometerSignalJerkMeanX
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -147,7 +147,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyAccelerometerSignalJerkMeanY
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -155,7 +155,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyAccelerometerSignalJerkMeanZ
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -163,7 +163,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyAccelerometerSignalJerkStandardDeviationX
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -171,7 +171,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyAccelerometerSignalJerkStandardDeviationY
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -179,7 +179,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyAccelerometerSignalJerkStandardDeviationZ
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -187,7 +187,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyGyroscopeSignalMeanX
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -195,7 +195,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyGyroscopeSignalMeanY
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -203,7 +203,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyGyroscopeSignalMeanZ
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -211,7 +211,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyGyroscopeSignalStandardDeviationX
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -219,7 +219,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyGyroscopeSignalStandardDeviationY
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -227,7 +227,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyGyroscopeSignalStandardDeviationZ
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -235,7 +235,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyGyroscopeSignalJerkMeanX
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -243,7 +243,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyGyroscopeSignalJerkMeanY
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -251,7 +251,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyGyroscopeSignalJerkMeanZ
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -259,7 +259,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyGyroscopeSignalJerkStandardDeviationX
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -267,7 +267,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyGyroscopeSignalJerkStandardDeviationY
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -275,7 +275,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyGyroscopeSignalJerkStandardDeviationZ
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -283,7 +283,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyAccelerometerSignalMagnitudeMean
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -291,7 +291,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyAccelerometerSignalMagnitudeStandardDeviation
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -299,7 +299,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: gravityAccelerometerSignalMagnitudeMean
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -307,7 +307,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: gravityAccelerometerSignalMagnitudeStandardDeviation
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -315,7 +315,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyAccelerometerSignalJerkMagnitudeMean
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -323,7 +323,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyAccelerometerSignalJerkMagnitudeStandardDeviation
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -331,7 +331,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyGyroscopeSignalMagnitudeMean
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -339,7 +339,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyGyroscopeSignalMagnitudeStandardDeviation
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -347,7 +347,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyGyroscopeSignalJerkMagnitudeMean
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -355,7 +355,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyGyroscopeSignalJerkMagnitudeStandardDeviation
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -363,7 +363,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyAccelerometerFFTMeanX
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -371,7 +371,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyAccelerometerFFTMeanY
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -379,7 +379,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyAccelerometerFFTMeanZ
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -387,7 +387,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyAccelerometerFFTStandardDeviationX
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -395,7 +395,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyAccelerometerFFTStandardDeviationY
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -403,7 +403,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyAccelerometerFFTStandardDeviationZ
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -411,7 +411,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyAccelerometerFFTJerkMeanX
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -419,7 +419,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyAccelerometerFFTJerkMeanY
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -427,7 +427,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyAccelerometerFFTJerkMeanZ
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -435,7 +435,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyAccelerometerFFTJerkStandardDeviationX
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -443,7 +443,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyAccelerometerFFTJerkStandardDeviationY
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -451,7 +451,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyAccelerometerFFTJerkStandardDeviationZ
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -459,7 +459,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyGyroscopeFFTMeanX
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -467,7 +467,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyGyroscopeFFTMeanY
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -475,7 +475,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyGyroscopeFFTMeanZ
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -483,7 +483,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyGyroscopeFFTStandardDeviationX
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -491,7 +491,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyGyroscopeFFTStandardDeviationY
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -499,7 +499,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyGyroscopeFFTStandardDeviationZ
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -508,7 +508,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable type**: Real
 * **Allowable values**:
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -516,7 +516,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyAccelerometerFFTMagnitudeStandardDeviation
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -525,7 +525,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable type**: Real
 * **Allowable values**:
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -533,7 +533,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyAccelerometerFFTJerkMagnitudeStandardDeviation
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -541,7 +541,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyGyroscopeFFTMagnitudeMean
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -549,7 +549,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyGyroscopeFFTMagnitudeStandardDeviation
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -557,7 +557,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyGyroscopeFFTJerkMagnitudeMean
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
@@ -565,7 +565,7 @@ measurements and radians/sec^2 for the gyroscope measurements.
 * **Variable name**: bodyGyroscopeFFTJerkMagnitudeStandardDeviation
 * **Variable type**: Real
 * **Allowable values**:
-* **Comments:
+* **Comments**:
 
 ***
 
