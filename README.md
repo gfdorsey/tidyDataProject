@@ -25,10 +25,10 @@ The script requires the dplyr library, and requires that the data set referenced
 above is in a directory called dataset in the same directory as the script
 run_analysis.R.  
 
-After running the script on the original data, the resulting file mean.dat can
+After running the script on the original data, the resulting file tidydata.txt can
 be read back into R using:
 ```{r eval = FALSE}
-mean.data <- read.table("mean.dat")
+mean.data <- read.table("tidydata.txt", header=TRUE)
 ```
 The mean.data data frame is preserved after running the run_analysis.R script,
 but all other temporary variables are removed from memory.
