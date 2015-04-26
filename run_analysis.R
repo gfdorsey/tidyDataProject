@@ -132,7 +132,7 @@ rm(tmp, tmp2, tmp3, i, j, names, combined.data)
 
 ## 8: Writes Tidy Data File ############################################
 ## Finally, writes the data file to the working directory
-## as mean.dat.
+## as tidydata.txt.
 
-write.table(mean.data, "mean.dat")
+write.table(mean.data, "tidydata.txt", row.names = FALSE)
 
