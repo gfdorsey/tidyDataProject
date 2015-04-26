@@ -85,7 +85,7 @@ variables selected in step 4.  These vectors were then recombined into the final
 data set.
 
 ### Step 8: Save the data
-The data were saved using the `r write.table` command so they could then be
+The data were saved using the `write.table` command so they could then be
 retrieved later.  The mean.data data frame is also retained in memory, but
 all other temporary variables are purged to save memory space.
 
